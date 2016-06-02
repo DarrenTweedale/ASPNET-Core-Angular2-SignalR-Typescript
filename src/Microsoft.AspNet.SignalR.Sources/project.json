@@ -1,0 +1,18 @@
+{
+    "version": "3.0.0-*",
+    "shared": "*.cs",
+    "dependencies": {
+    },
+
+    "frameworks": {
+        "dnx451": {
+            "dependencies": {
+            }
+        },
+        "dnxcore50": {
+            "dependencies": {
+                "System.Runtime": "4.0.20-beta-*"
+            }
+        }
+    }
+}
