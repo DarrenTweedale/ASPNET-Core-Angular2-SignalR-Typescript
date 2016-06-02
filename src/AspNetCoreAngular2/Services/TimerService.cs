@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Threading;
-using Microsoft.Extensions.OptionsModel;
+using Microsoft.Extensions.Options;
 
 namespace AspNetCoreAngular2.Services
 {

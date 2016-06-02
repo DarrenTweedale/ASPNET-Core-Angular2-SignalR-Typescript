@@ -6,8 +6,8 @@ using AspNetCoreAngular2.Repositories;
 using AspNetCoreAngular2.Services;
 using AspNetCoreAngular2.ViewModels;
 using AutoMapper;
-using Microsoft.AspNet.Mvc;
-using Microsoft.AspNet.SignalR;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.SignalR;
 using Microsoft.AspNet.SignalR.Infrastructure;
 
 namespace AspNetCoreAngular2.Controllers
